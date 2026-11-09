@@ -1,0 +1,10 @@
+NUESTRA HISTORIA — LISSET ❤️
+
+1. Extrae los archivos del ZIP.
+2. Abre index.html en Chrome o Edge.
+3. Pulsa «Iniciar historia».
+4. Para compartirla, publica la carpeta en GitHub Pages o Netlify.
+
+Incluye animación 2D creada con HTML/CSS/JS, 9 escenas, personajes, controles y música de YouTube.
+La música necesita Internet y que el propietario del video permita su inserción. Algunos navegadores pueden bloquear el audio, incluso después del clic. Si falla, usa el enlace de YouTube indicado en la web.
+No incluye el archivo de audio de la canción ni es una reproducción cuadro a cuadro del TikTok original.
